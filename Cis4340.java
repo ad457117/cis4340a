@@ -3,7 +3,7 @@
  *  Execution:    java Cis4340
  *
  *  Prints 
- *    "Hello, World - from the class of cis4340 - Spring 2024 - UCF (your name here_)".
+ *    "Hello, World - Adam Worthington".
  *  By tradition, this is everyone's first program.
  *
  * Revision History:
